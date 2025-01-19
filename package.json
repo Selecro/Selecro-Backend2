@@ -62,7 +62,7 @@
     "dotenv": "^16.4.5",
     "isemail": "^3.2.0",
     "jsonwebtoken": "^9.0.2",
-    "loopback-connector-postgresql": "^7.1.6",
+    "loopback-connector-postgresql": "^7.1.8",
     "multer": "^1.4.5-lts.1",
     "nodemailer": "^6.9.14",
     "path": "^0.12.7",
