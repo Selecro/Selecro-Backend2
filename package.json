@@ -59,7 +59,7 @@
     "@nestjs/core": "^10.4.12",
     "@nestjs/platform-express": "^10.4.14",
     "cross-fetch": "^4.0.0",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.7",
     "isemail": "^3.2.0",
     "jsonwebtoken": "^9.0.2",
     "loopback-connector-postgresql": "^7.1.6",
